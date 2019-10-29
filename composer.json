@@ -1,10 +1,5 @@
 {
   "name": "phpswift/cms",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "replace": {
-    "yiisoft/yii2": "self.version"
-  },
   "require": {
     "php": ">=7.0"
   },

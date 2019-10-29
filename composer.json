@@ -1,7 +1,8 @@
 {
   "name": "phpswift/cms",
   "require": {
-    "php": ">=7.0"
+    "php": ">=7.0",
+    "phpswift/cms": "^1.0"
   },
   "repositories": [
     {

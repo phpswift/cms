@@ -4,6 +4,7 @@
     "php": ">=7.0",
     "phpswift/cms-widgets": "^1.0"
   },
+  "minimum-stability": "stable",
   "repositories": [
     {
       "type": "composer",
